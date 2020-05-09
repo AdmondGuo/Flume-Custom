@@ -1,0 +1,7 @@
+#Set metadata of the log, which will be put into the header of flume
+name: WIN-DEVICE
+index: orchestrator-agent-app
+type: log
+tags:
+ - orchestrator-agent-app
+ - gtq-device
